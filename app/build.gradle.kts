@@ -12,7 +12,7 @@ android {
     namespace = "com.sdex.activityrunner"
 
     defaultConfig {
-        applicationId = "com.activitymanager"
+        applicationId = "com.xiaodianshi.tv.yst"
         minSdk = 21
         targetSdk = 34
         versionCode = 551
